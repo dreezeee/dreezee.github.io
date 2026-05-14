@@ -2,7 +2,7 @@
 
 > Personal portfolio website for Mfonabasi Enobong Umoh, Marketing Professional & Brand Strategist based in Mauritius.
 
-🌐 **Live site:** [yourusername.github.io](https://yourusername.github.io)
+🌐 **Live site:** [yourusername.github.io](https://dreezee.github.io)
 
 ---
 
